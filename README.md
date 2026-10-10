@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Sagarjit+Singh+Batish;CSE+(AI/ML)+Student;Frontend+Backend+Developer" alt="Typing animation of my name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Sagarjit+Singh+Batish;CSE+(AI/ML)+Student;Full+Stack+Developer" alt="Typing animation of my name" />
 </h1>
 
 
